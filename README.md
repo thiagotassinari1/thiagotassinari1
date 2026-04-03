@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Tenho 18 anos e sou apaixonado por encontrar soluções lógicas para desafios reais. Iniciei minha jornada como **Técnico em Informática para Internet pelo SENAC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na UNISINOS**.
+Tenho 19 anos e sou apaixonado por encontrar soluções lógicas para desafios reais. Iniciei minha jornada como **Técnico em Informática para Internet pelo SENAC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na UNISINOS**.
 
 Tenho experiência profissional em **operações financeiras e automação de processos**, tendo atuado na V4 Company desenvolvendo ferramentas para otimizar fluxos de trabalho. Meu foco é unir tecnologia e eficiência para criar aplicações impactantes.
 
