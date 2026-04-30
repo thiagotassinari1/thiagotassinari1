@@ -12,9 +12,9 @@ Sou um desenvolvedor focado em construir soluções que unem lógica técnica e 
 
 Minha trajetória é marcada pela atuação na **V4 Company**, onde migrei de assistente de tecnologia para o time de Operações Financeiras (FinOps). Lá, desenvolvo ferramentas de automação e otimização de fluxos, utilizando tecnologias como Salesforce e SAP S/4HANA para transformar desafios operacionais em sistemas ágeis.
 
-* 🎓 **Educação:** Tecnólogo em ADS (Unisinos, 2025-2028) & Técnico em Informática (Senac)[cite: 3].
-* 💼 **Experiência:** Faturamento, gestão contratual e automação de processos financeiros (FinOps)[cite: 3].
-* 🚀 **Stack Atual:** Foco profundo em **Java**, **Spring Boot** e **Vue.js**[cite: 3].
+* 🎓 **Educação:** Tecnólogo em ADS (Unisinos, 2025-2028) & Técnico em Informática (Senac).
+* 💼 **Experiência:** Faturamento, gestão contratual e automação de processos financeiros (FinOps).
+* 🚀 **Stack Atual:** Foco profundo em **Java**, **Spring Boot** e **Vue.js**.
 
 ---
 
@@ -50,9 +50,9 @@ Minha trajetória é marcada pela atuação na **V4 Company**, onde migrei de as
 
 ### 🚀 Projetos em Destaque
 
-*   **[Sistema de Gestão de Estoque](https://github.com/thiagotassinari1/Sistema-de-Gerenciamento-de-Estoque-CRUD)**: API RESTful desenvolvida com **Java** e **Spring Boot**. Implementa CRUD completo e lógica de reabastecimento automatizado[cite: 3].
-*   **[Calculadora de Distrato (V4 Company)](https://github.com/thiagotassinari1/calculadora-de-distrato)**: Ferramenta de impacto real que automatiza cálculos complexos de rescisão, reduzindo significativamente o tempo de execução manual da equipe financeira[cite: 3].
-*   **[Vovôltar](https://github.com/thiagotassinari1/Vovoltar-Plataforma-de-Empregos-para-Idosos)**: Plataforma Full Stack (Node.js/SQL) premiada como TCC, focada em acessibilidade e impacto social para a terceira idade[cite: 3].
+*   **[Sistema de Gestão de Estoque](https://github.com/thiagotassinari1/Sistema-de-Gerenciamento-de-Estoque-CRUD)**: API RESTful desenvolvida com **Java** e **Spring Boot**. Implementa CRUD completo e lógica de reabastecimento automatizado.
+*   **[Calculadora de Distrato (V4 Company)](https://github.com/thiagotassinari1/calculadora-de-distrato)**: Ferramenta de impacto real que automatiza cálculos complexos de rescisão, reduzindo significativamente o tempo de execução manual da equipe financeira.
+*   **[Vovôltar](https://github.com/thiagotassinari1/Vovoltar-Plataforma-de-Empregos-para-Idosos)**: Plataforma Full Stack (Node.js/SQL) premiada como TCC, focada em acessibilidade e impacto social para a terceira idade.
 
 ---
 
