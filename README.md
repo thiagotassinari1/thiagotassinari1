@@ -1,58 +1,66 @@
 # Olá, eu sou o Thiago Tassinari! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2292A4&center=true&vCenter=true&width=500&lines=Software+Developer;Java+Back-End+Enthusiast;FinOps+Automations;ADS+Student+@+Unisinos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2292A4&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;Estudante+de+Análise+de+Sistemas;Foco+em+Java+e+Spring+Boot;Apaixonado+por+Automação" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor focado em construir soluções que unem lógica técnica e eficiência de processos. Atualmente, curso o 3º semestre de **Análise e Desenvolvimento de Sistemas na UNISINOS** e possuo formação técnica pelo **SENAC**.
+Tenho 19 anos e sou apaixonado por encontrar soluções lógicas para desafios reais. Iniciei minha jornada como **Técnico em Informática para Internet pelo SENAC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na UNISINOS**.
 
-Minha trajetória é marcada pela atuação na **V4 Company**, onde migrei de assistente de tecnologia para o time de Operações Financeiras (FinOps). Lá, desenvolvo ferramentas de automação e otimização de fluxos, utilizando tecnologias como Salesforce e SAP S/4HANA para transformar desafios operacionais em sistemas ágeis.
+Atualmente trabalho na **V4 Company** em operações financeiras (FinOps), onde foco no desenvolvimento de ferramentas para otimizar e automatizar fluxos de trabalho complexos. Meu objetivo é unir tecnologia e eficiência para criar aplicações que facilitem o dia a dia operacional.
 
-* 🎓 **Educação:** Tecnólogo em ADS (Unisinos, 2025-2028) & Técnico em Informática (Senac).
-* 💼 **Experiência:** Faturamento, gestão contratual e automação de processos financeiros (FinOps).
-* 🚀 **Stack Atual:** Foco profundo em **Java**, **Spring Boot** e **Vue.js**.
+* 🎓 **Formação:** Tecnólogo em ADS (Unisinos) & Técnico em Informática (Senac).
+* 💼 **Experiência:** Automação de processos financeiros e desenvolvimento web.
+* 🚀 **Foco Atual:** Especialização em **Java, Spring Boot e Vue.js**.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Linguagens & Back-end:**
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
 **Front-end & UI/UX:**
-<div style="display: inline_block">
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</p>
 
 **Dados & Ferramentas:**
-<div style="display: inline_block">
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="SAP" height="30" width="40" src="https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="sap" height="40"/>
+</p>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-*   **[Sistema de Gestão de Estoque](https://github.com/thiagotassinari1/Sistema-de-Gerenciamento-de-Estoque-CRUD)**: API RESTful desenvolvida com **Java** e **Spring Boot**. Implementa CRUD completo e lógica de reabastecimento automatizado.
-*   **[Calculadora de Distrato (V4 Company)](https://github.com/thiagotassinari1/calculadora-de-distrato)**: Ferramenta de impacto real que automatiza cálculos complexos de rescisão, reduzindo significativamente o tempo de execução manual da equipe financeira.
-*   **[Vovôltar](https://github.com/thiagotassinari1/Vovoltar-Plataforma-de-Empregos-para-Idosos)**: Plataforma Full Stack (Node.js/SQL) premiada como TCC, focada em acessibilidade e impacto social para a terceira idade.
+#### ☕ Java & Spring Boot
+* **[Sistema de Gestão de Estoque](https://github.com/thiagotassinari1/Sistema-de-Gerenciamento-de-Estoque-CRUD)**
+    * *O que é:* API RESTful completa com CRUD e lógica de pedidos automatizada.
+* **[Simulador de Pool de Processos](https://github.com/thiagotassinari1/Simulador-Pool-de-Processos-Java)**
+    * *Tech:* Java, Polimorfismo e Gerenciamento de Arquivos.
+
+#### 🌐 Full Stack & Automação
+* **[Vovôltar - Plataforma de Empregos](https://github.com/thiagotassinari1/Vovoltar-Plataforma-de-Empregos-para-Idosos)**
+    * *Impacto:* TCC focado em acessibilidade para a 3ª idade (Node.js + MySQL).
+* **[Calculadora de Distrato (V4 Company)](https://github.com/thiagotassinari1/calculadora-de-distrato)**
+    * *Impacto:* Ferramenta real que automatizou cálculos complexos, aumentando a produtividade do time financeiro.
 
 ---
 
@@ -65,7 +73,7 @@ Minha trajetória é marcada pela atuação na **V4 Company**, onde migrei de as
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-da-silva-tassinari-ab4667239)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagotassinari10@gmail.com)
