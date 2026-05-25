@@ -12,7 +12,7 @@ Tenho 19 anos e sou apaixonado por encontrar soluções lógicas para desafios r
 
 Atualmente trabalho na **V4 Company** em operações financeiras (FinOps), onde foco no desenvolvimento de ferramentas para otimizar e automatizar fluxos de trabalho complexos. Meu objetivo é unir tecnologia e eficiência para criar aplicações que facilitem o dia a dia operacional.
 
-* 🎓 **Formação:** Tecnólogo em ADS (Unisinos) & Técnico em Informática (Senac).
+* 🎓 **Formação:** Cursando Tecnólogo em ADS (Unisinos) & Formado em Técnico em Informática para Internet (Senac).
 * 💼 **Experiência:** Automação de processos financeiros e desenvolvimento web.
 * 🚀 **Foco Atual:** Especialização em **Java, Spring Boot e Vue.js**.
 
