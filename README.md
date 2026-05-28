@@ -10,11 +10,14 @@
 
 Tenho 19 anos e sou apaixonado por encontrar soluções lógicas para desafios reais. Iniciei minha jornada como **Técnico em Informática para Internet pelo SENAC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na UNISINOS**.
 
-Atualmente trabalho na **V4 Company** em operações financeiras (FinOps), onde foco no desenvolvimento de ferramentas para otimizar e automatizar fluxos de trabalho complexos. Meu objetivo é unir tecnologia e eficiência para criar aplicações que facilitem o dia a dia operacional.
+Em minha trajetória recente, consolidei mais de 3 anos de experiência na V4 Company, onde transitei entre tecnologia e operações financeiras (FinOps). Meu foco sempre foi o desenvolvimento de ferramentas para otimizar e automatizar fluxos de trabalho complexos, construindo soluções internas que aumentaram a produtividade das equipes. Tenho facilidade em transitar entre a lógica de back-end e a interface de front-end, aliando o desenvolvimento web à vivência prática com ecossistemas enterprise robustos, como SAP S/4HANA e Salesforce.
 
-* 🎓 **Formação:** Cursando Tecnólogo em ADS (Unisinos) & Formado em Técnico em Informática para Internet (Senac).
-* 💼 **Experiência:** Automação de processos financeiros e desenvolvimento web.
-* 🚀 **Foco Atual:** Especialização em **Java, Spring Boot e Vue.js**.
+Atualmente, estou em busca de novas oportunidades e desafios profissionais onde eu possa aplicar minha bagagem como Desenvolvedor Full Stack para construir produtos incríveis e gerar valor imediato à equipe.
+
+* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (Unisinos) & Formado em Técnico em Informática para Internet (Senac).
+* 💼 **Experiência:** Automação de processos financeiros, desenvolvimento web full stack e vivência com sistemas enterprise (SAP, Salesforce).
+* 🎯 **Momento Atual:** Disponível para novas oportunidades no mercado de tecnologia.
+* 🚀 **Foco Técnico:** Especialização contínua em Java, Spring Boot e Vue.js.
 
 ---
 
