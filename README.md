@@ -48,6 +48,7 @@ Atualmente trabalho na **V4 Company** em operações financeiras (FinOps), onde 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></td>
     <td><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" height="40" /></td>
+    <td>![Salesforce](https://shields.io)</td>
   </tr>
 </table>
 
